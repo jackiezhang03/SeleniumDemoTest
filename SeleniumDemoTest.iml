@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/selenium-java-4.4.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/selenium-java-4.4.0" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.4.0" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.4.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/async-http-client-2.12.3.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/auto-common-1.2.1.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/auto-service-1.0.1.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/auto-service-annotations-1.0.1.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/byte-buddy-1.12.10.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/checker-qual-3.12.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/commons-exec-1.3.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/error_prone_annotations-2.11.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/failsafe-3.2.4.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/failureaccess-1.0.1.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/guava-31.1-jre.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/jcommander-1.82.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/jsr305-3.0.2.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/jtoml-2.0.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-buffer-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-codec-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-codec-http-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-codec-socks-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-common-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-handler-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-handler-proxy-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-resolver-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-transport-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-transport-classes-epoll-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-transport-classes-kqueue-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/netty-transport-native-unix-common-4.1.78.Final.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-api-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-context-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-exporter-logging-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-common-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-extension-autoconfigure-1.16.0-alpha.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-extension-autoconfigure-spi-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-logs-1.16.0-alpha.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-metrics-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-sdk-trace-1.16.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/opentelemetry-semconv-1.16.0-alpha.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/reactive-streams-1.0.4.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-api-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-chrome-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-chromium-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v85-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v102-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v103-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v104-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-edge-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-firefox-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-http-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-ie-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-java-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-json-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-opera-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-remote-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-safari-driver-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-support-4.4.0.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/slf4j-api-1.7.36.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-api-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-chrome-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-chromium-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v85-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v102-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v103-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-devtools-v104-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-edge-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-firefox-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-http-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-ie-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-json-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-opera-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-remote-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-safari-driver-4.4.0-sources.jar!/" />
+          <root url="jar://C:/BootCamp/Selenium jars and drives/jars/selenium-support-4.4.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
